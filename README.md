@@ -11,3 +11,6 @@
 - <a href='https://www.acmicpc.net/contest/view/956'>제1회 흐즈로컵</a> - A1번: '스네이크' <a href='https://github.com/happydm09/Beakjoon-Contest/blob/main/956-1(A1).py'>(답안)</a>
 
 - <a href='https://www.acmicpc.net/contest/view/958'>2023 성균관대학교 프로그래밍 경진대회 Open Contest</a> - A번: '증가 배열 만들기' <a href='https://github.com/happydm09/Beakjoon-Contest/blob/main/958-1(A).py'>(답안)</a>, B번: '토크나이저' <a href='https://github.com/happydm09/Beakjoon-Contest/blob/main/958-2(B).py'>(답안)</a>
+
+- <a href='https://www.acmicpc.net/contest/view/960'>2023 중앙대학교 CHAC (ChAOS Hello2023 Algorithm Contest) Open Contest</a> - A번: '찬반투표' <a href='https://github.com/happydm09/Beakjoon-Contest/blob/main/960-1(A).py'>(답안)</a>
+
