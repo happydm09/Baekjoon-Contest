@@ -14,3 +14,6 @@
 
 - <a href='https://www.acmicpc.net/contest/view/960'>2023 중앙대학교 CHAC (ChAOS Hello2023 Algorithm Contest) Open Contest</a> - A번: '찬반투표' <a href='https://github.com/happydm09/Beakjoon-Contest/blob/main/960-1(A).py'>(답안)</a>
 
+- <a href='https://www.acmicpc.net/contest/view/971'>예비소집</a> - 번: '먹었습니다' <a href='https://github.com/happydm09/Beakjoon-Contest/blob/main/971-1().py'>(답안 - 2147483646점)</a>
+
+
