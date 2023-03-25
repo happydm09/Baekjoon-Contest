@@ -16,4 +16,4 @@
 
 - <a href='https://www.acmicpc.net/contest/view/973'>예비소집</a> - 번: '먹었습니다' <a href='https://github.com/happydm09/Beakjoon-Contest/blob/main/973-1().txt'>(답안 - 2147483646점)</a>
 
-
+- <a href='https://www.acmicpc.net/contest/view/978'>GEC-Cup (Open contest)</a> - A번: '특별한 학교 이름' <a href='https://github.com/happydm09/Beakjoon-Contest/blob/main/978-1(A).py'>(답안)</a>
