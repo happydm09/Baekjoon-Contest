@@ -17,3 +17,5 @@
 - <a href='https://www.acmicpc.net/contest/view/973'>예비소집</a> - 번: '먹었습니다' <a href='https://github.com/happydm09/Beakjoon-Contest/blob/main/973-1().txt'>(답안 - 2147483646점)</a>
 
 - <a href='https://www.acmicpc.net/contest/view/978'>GEC-Cup (Open contest)</a> - A번: '특별한 학교 이름' <a href='https://github.com/happydm09/Beakjoon-Contest/blob/main/978-1(A).py'>(답안)</a>
+
+- <a href='https://www.acmicpc.net/contest/view/970'>2023 UNIST-DGIST-POSTECH 연합 프로그래밍 경진대회 (2023 UDPC) Open Contest)</a> - A번: '탁구 경기' <a href='https://github.com/happydm09/Beakjoon-Contest/blob/main/970-1(A).py'>(답안)</a>
