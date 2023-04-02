@@ -1,6 +1,8 @@
 # Beakjoon-Contest
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-백준 대회 푼 문제 일지 입니다.
+<a href='https://solved.ac/profile/dongmin'><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a><br>
+백준 대회 푼 문제 일지 입니다. 실제 대회에서만 푼 문제들이며 대회 중에도 올립니다.
+
+<a href=''>백준 푼 문제들(메인)</a>
 
 ## 노트 Note
     파일 이름은 (대회번호)-(몇번째문제)로 적었습니다.
