@@ -27,3 +27,5 @@
 - <a href='https://www.acmicpc.net/contest/view/967'>제1회 와쿠(AGCU)컵</a> - A번: '초코바' <a href='https://github.com/happydm09/Beakjoon-Contest/blob/main/967-1(A).py'>(답안)</a>, F번: '콰트로치즈피자' <a href='https://github.com/happydm09/Beakjoon-Contest/blob/main/967-6(F).py'>(답안)</a>
 
 - <a href='https://www.acmicpc.net/contest/view/999'>2023 SCON Open Contest</a> - A번: '정보섬의 대중교통' <a href='https://github.com/happydm09/Beakjoon-Contest/blob/main/999-1(A).py'>(답안)</a>
+
+- <a href='https://www.acmicpc.net/contest/view/1014'>2023 POSTECH Programming Contest Open</a> - A번: '	모범생 포닉스' <a href='https://github.com/happydm09/Beakjoon-Contest/blob/main/1014-1(A).py'>(답안)</a>
