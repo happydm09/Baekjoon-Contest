@@ -33,3 +33,5 @@
 - <a href='https://www.acmicpc.net/contest/view/987'>2023 인하대학교 프로그래밍 경진대회(IUPC) Open Contest</a> - A번: '모비스' <a href='https://github.com/happydm09/Baekjoon-Contest/blob/main/987-1(A).py'>(답안)</a>
 
 - <a href='https://www.acmicpc.net/contest/view/1013'>2023 아주대학교 프로그래밍 경시대회 APC Open Contest</a> - A번: 'Since 1973' <a href='https://github.com/happydm09/Baekjoon-Contest/blob/main/1013-1(A).py'>(답안)</a>
+
+- <a href='https://www.acmicpc.net/contest/view/1029'>송도고 코드마스터 2023 Open Contest</a> - A번: '코드마스터 2023' <a href='https://github.com/happydm09/Baekjoon-Contest/blob/main/1029-1(A).py'>(답안)</a>
