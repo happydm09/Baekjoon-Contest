@@ -35,3 +35,6 @@
 - <a href='https://www.acmicpc.net/contest/view/1013'>2023 아주대학교 프로그래밍 경시대회 APC Open Contest</a> - A번: 'Since 1973' <a href='https://github.com/happydm09/Baekjoon-Contest/blob/main/1013-1(A).py'>(답안)</a>
 
 - <a href='https://www.acmicpc.net/contest/view/1029'>송도고 코드마스터 2023 Open Contest</a> - A번: '코드마스터 2023' <a href='https://github.com/happydm09/Baekjoon-Contest/blob/main/1029-1(A).py'>(답안)</a>, B번: '점심시간 레이스' <a href='https://github.com/happydm09/Baekjoon-Contest/blob/main/1029-2(B).py'>(답안)</a>, C번: '정보 선생님의 야망' <a href='https://github.com/happydm09/Baekjoon-Contest/blob/main/1029-3(C).py'>(답안)</a>, D1번: '배고파(Easy)' <a href='https://github.com/happydm09/Baekjoon-Contest/blob/main/1029-4(D1).py'>(답안)</a>
+
+
+- <a href='https://www.acmicpc.net/contest/view/1056'>제2회 초콜릿컵</a> A번: '3단 초콜릿 아이스크림' <a href='https://github.com/happydm09/Baekjoon-Contest/blob/main/1056-1(A).py'>(답안)</a>
