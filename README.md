@@ -38,3 +38,5 @@
 
 
 - <a href='https://www.acmicpc.net/contest/view/1056'>제2회 초콜릿컵</a> - A번: '3단 초콜릿 아이스크림' <a href='https://github.com/happydm09/Baekjoon-Contest/blob/main/1056-1(A).py'>(답안)</a>
+
+- <a href='https://www.acmicpc.net/contest/view/1073'>2023 연세대학교 미래캠퍼스 슬기로운 코딩생활 Open Contest</a> - A번: '선물' <a href='https://github.com/happydm09/Baekjoon-Contest/blob/main/1073-1(A).py'>(답안)</a>
