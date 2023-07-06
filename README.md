@@ -42,3 +42,5 @@
 - <a href='https://www.acmicpc.net/contest/view/1073'>2023 연세대학교 미래캠퍼스 슬기로운 코딩생활 Open Contest</a> - A번: '선물' <a href='https://github.com/happydm09/Baekjoon-Contest/blob/main/1073-1(A).py'>(답안)</a>
 
 - <a href='https://www.acmicpc.net/contest/view/1068'>UCPC 2023 예선 Open Contest</a> - A번: '체육은 코딩과목 입니다' <a href='https://github.com/happydm09/Baekjoon-Contest/blob/main/1068-1(A).py'>(답안)</a>
+
+- <a href='https://www.acmicpc.net/contest/view/1063'>2023 대구소프트웨어고 프로그래밍 경진대회 (DPC 2023) Open Contest</a> - A번: '과 조사하기' <a href='https://github.com/happydm09/Baekjoon-Contest/blob/main/1063-1(A).py'>(답안)</a>
