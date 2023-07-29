@@ -47,4 +47,4 @@
 
 - <a href='https://www.acmicpc.net/contest/view/1085'>제 7회 천하제일 코딩대회 Open Contest</a> - A번: '10!' <a href='https://github.com/happydm09/Baekjoon-Contest/blob/main/1085-1(A).py'>(답안)</a>
 
-- <a href='https://www.acmicpc.net/contest/view/1090'>제3회 한국항공대학교 프로그래밍 경진대회(KAUPC) Open Contest</a> - A번: '스케이트보드' <a href='https://github.com/happydm09/Baekjoon-Contest/blob/main/1090-1(A).py'>(답안)</a>
+- <a href='https://www.acmicpc.net/contest/view/1090'>제3회 한국항공대학교 프로그래밍 경진대회(KAUPC) Open Contest</a> - A번: '스케이트보드' <a href='https://github.com/happydm09/Baekjoon-Contest/blob/main/1090-1(A).py'>(답안)</a>,  C번: '더하기' <a href='https://github.com/happydm09/Baekjoon-Contest/blob/main/1090-3(C).py'>(답안)</a>
