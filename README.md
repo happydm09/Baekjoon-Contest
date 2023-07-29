@@ -46,3 +46,5 @@
 - <a href='https://www.acmicpc.net/contest/view/1063'>2023 대구소프트웨어고 프로그래밍 경진대회 (DPC 2023) Open Contest</a> - A번: '과 조사하기' <a href='https://github.com/happydm09/Baekjoon-Contest/blob/main/1063-1(A).py'>(답안)</a>, B번: '안밖? 밖안? 계단? 역계단?' <a href='https://github.com/happydm09/Baekjoon-Contest/blob/main/1063-2(B).py'>(답안)</a>
 
 - <a href='https://www.acmicpc.net/contest/view/1085'>제 7회 천하제일 코딩대회 Open Contest</a> - A번: '10!' <a href='https://github.com/happydm09/Baekjoon-Contest/blob/main/1085-1(A).py'>(답안)</a>
+
+- <a href='https://www.acmicpc.net/contest/view/1090'>제3회 한국항공대학교 프로그래밍 경진대회(KAUPC) Open Contest</a> - A번: '스케이트보드' <a href='https://github.com/happydm09/Baekjoon-Contest/blob/main/1090-1(A).py'>(답안)</a>
