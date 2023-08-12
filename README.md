@@ -51,4 +51,4 @@
 
 - <a href='https://www.acmicpc.net/contest/view/1065'>solved.ac Grand Arena #1 · Arena #1</a> - A번: '양말 짝 맞추기' <a href='https://github.com/happydm09/Baekjoon-Contest/blob/main/1065-1(A).py'>(답안)</a>
 
-- <a href='https://www.acmicpc.net/contest/view/985'>제1회 유틸컵 - Chapter 1 </a> - A번: 'Previous Level' <a href='https://github.com/happydm09/Baekjoon-Contest/blob/main/985-1(A).py'>(답안)</a>, B번: 'Gift Expire Date' <a href='https://github.com/happydm09/Baekjoon-Contest/blob/main/985-2(B).py'>(답안)</a>
+- <a href='https://www.acmicpc.net/contest/view/985'>제1회 유틸컵 - Chapter 1 </a> - A번: 'Previous Level' <a href='https://github.com/happydm09/Baekjoon-Contest/blob/main/985-1(A).py'>(답안)</a>, B번: 'Gift Expire Date' <a href='https://github.com/happydm09/Baekjoon-Contest/blob/main/985-2(B).py'>(답안)</a>, C번: 'Union Maplestory' <a href='https://github.com/happydm09/Baekjoon-Contest/blob/main/985-3(C).py'>(답안)</a>
