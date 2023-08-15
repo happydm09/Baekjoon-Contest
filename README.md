@@ -4,6 +4,9 @@
 
 <a href='https://github.com/DM-09/BaekjoonCode'>백준 푼 문제들(메인)</a>
 
+- <a href='https://github.com/happydm09/Baekjoon-Contest/blob/main/Contest.md'>대회 실적</a>
+- <a href='https://github.com/happydm09/Baekjoon-Contest/blob/main/Arena.md'>아레나 실적</a>
+
 ## 노트 Note
     파일 이름은 (대회번호)-(몇번째문제)로 적었습니다.
 
