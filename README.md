@@ -54,3 +54,5 @@
 - <a href='https://www.acmicpc.net/contest/view/985'>제1회 유틸컵 - Chapter 1 </a> - A번: 'Previous Level' <a href='https://github.com/happydm09/Baekjoon-Contest/blob/main/Code/985-1(A).py'>(답안)</a>, B번: 'Gift Expire Date' <a href='https://github.com/happydm09/Baekjoon-Contest/blob/main/Code/985-2(B).py'>(답안)</a>, C번: 'Union Maplestory' <a href='https://github.com/happydm09/Baekjoon-Contest/blob/main/Code/985-3(C).py'>(답안)</a>
 
 - <a href='https://www.acmicpc.net/contest/view/1077'>solved.ac Grand Arena #2 · Arena #2</a> - A번: '세제곱의 합' <a href='https://github.com/happydm09/Baekjoon-Contest/blob/main/Code/1077-1(A).py'>(답안)</a>
+
+- <a href='https://www.acmicpc.net/contest/view/1084'>제3회 고려대학교 MatKor Cup : 2023 Summer Open Contest - Phase 1 · Arena #3</a> - A번: '재우야 임관하자' <a href='https://github.com/happydm09/Baekjoon-Contest/blob/main/Code/1084-1(A).py'>(답안)</a>
