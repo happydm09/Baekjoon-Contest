@@ -61,3 +61,5 @@
 - <a href='https://www.acmicpc.net/contest/view/1084'>제3회 고려대학교 MatKor Cup : 2023 Summer Open Contest - Phase 1 · Arena #3</a> - A번: '재우야 임관하자' <a href='https://github.com/happydm09/Baekjoon-Contest/blob/main/Code/1084-1(A).py'>(답안)</a>
 
 - <a href='https://www.acmicpc.net/contest/view/1087'>제3회 고려대학교 MatKor Cup : 2023 Summer Open Contest - Phase 2</a> - A번: '정보보호학부 동아리 소개' <a href='https://github.com/happydm09/Baekjoon-Contest/blob/main/Code/1087-1(A).py'>(답안)</a>
+
+- <a href='https://www.acmicpc.net/contest/view/1103'>2023 ICPC Sinchon Summer Algorithm Camp Contest - Open Contest</a> - A번: 'Toe Jumps' <a href='https://github.com/happydm09/Baekjoon-Contest/blob/main/Code/1103-1(A).py'>(답안)</a>
