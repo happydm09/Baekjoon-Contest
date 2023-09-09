@@ -70,6 +70,6 @@
 
 - <a href='https://www.acmicpc.net/contest/view/1088'>제1회 임스의 메이플컵 (The 1st lms0806's Maple Cup) · Arena #6</a> - A번: '임스의 메이플컵' <a href='https://github.com/happydm09/Baekjoon-Contest/blob/main/Code/1088-1(A).py'>(답안)</a>, B번: '에르다 노바와 오리진 스킬' <a href='https://github.com/happydm09/Baekjoon-Contest/blob/main/Code/1088-2(B).py'>(답안)</a>
 
-- <a href='https://www.acmicpc.net/contest/view/1109'>제3회 숙명여자대학교 프로그래밍 경진대회 (SMUPC) Open Contest</a> - A번: 'Welcome to SMUPC!' <a href='https://github.com/happydm09/Baekjoon-Contest/blob/main/Code/1109-1(A).py'>(답안)</a>, B번: '우당탕탕 영화예매' <a href='https://github.com/happydm09/Baekjoon-Contest/blob/main/Code/1109-2(B).py'>(답안)</a>, C번: '모스 부호' <a href='https://github.com/happydm09/Baekjoon-Contest/blob/main/Code/1109-2(B).py'>(답안)</a>
+- <a href='https://www.acmicpc.net/contest/view/1109'>제3회 숙명여자대학교 프로그래밍 경진대회 (SMUPC) Open Contest</a> - A번: 'Welcome to SMUPC!' <a href='https://github.com/happydm09/Baekjoon-Contest/blob/main/Code/1109-1(A).py'>(답안)</a>, B번: '우당탕탕 영화예매' <a href='https://github.com/happydm09/Baekjoon-Contest/blob/main/Code/1109-2(B).py'>(답안)</a>, C번: '모스 부호' <a href='https://github.com/happydm09/Baekjoon-Contest/blob/main/Code/1109-3(C).py'>(답안)</a>
 
 - <a href='https://www.acmicpc.net/contest/view/1112'>단대소프트고 2023 알고리즘 대회</a> - A번: 'DKSH 찾기' <a href='https://github.com/happydm09/Baekjoon-Contest/blob/main/Code/1112-1(A).py'>(답안)</a>, C번: '팰린드롬 이름' <a href='https://github.com/happydm09/Baekjoon-Contest/blob/main/Code/1112-3(C).py'>(답안)</a>
